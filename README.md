@@ -17,7 +17,7 @@ cp Xcode-snippets/MARKS/*.* Library/Developer/Xcode/UserData/CodeSnippets
 
 Step 3:
 ```Shell
-rm Xcode-snippets
+rm -rf Xcode-snippets
 ```
 
 ## ..or manually move snippets to
