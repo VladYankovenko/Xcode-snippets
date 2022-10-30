@@ -13,7 +13,7 @@ rm Xcode-snippets
 
 # Example
 
-```
+```Swift
 // MARK: - Events
     
 // MARK: - Constants
@@ -35,6 +35,6 @@ rm Xcode-snippets
 // MARK: - Methods
 
 // MARK: - Private Methods
-```Swift
+```
 
 
