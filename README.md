@@ -11,7 +11,7 @@ cp Xcode-snippets/MARKS/*.* Library/Developer/Xcode/UserData/CodeSnippets
 rm Xcode-snippets
 ```
 
-# Example
+# Available Snippets
 
 ```Swift
 // MARK: - Events
@@ -36,5 +36,13 @@ rm Xcode-snippets
 
 // MARK: - Private Methods
 ```
+
+# Usage
+
+## Step 1
+![usage1]{./Resources/usage1.png}
+
+## Step 2
+![usage1]{./Resources/usage1.png}
 
 
