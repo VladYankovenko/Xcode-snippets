@@ -40,9 +40,9 @@ rm Xcode-snippets
 # Usage
 
 ## Step 1
-![usage1]{./Resources/usage1.png}
+![usage1](./Resources/usage1.png)
 
 ## Step 2
-![usage1]{./Resources/usage1.png}
+![usage2](./Resources/usage2.png)
 
 
