@@ -5,7 +5,7 @@
 
 ## Copy this command in terminal and run:
 
-```
+```Shell
 git clone https://github.com/VladYankovenko/Xcode-snippets
 cp Xcode-snippets/MARKS/*.* Library/Developer/Xcode/UserData/CodeSnippets
 rm Xcode-snippets
