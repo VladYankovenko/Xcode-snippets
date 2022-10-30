@@ -5,11 +5,24 @@
 
 ## Copy this command in terminal and run:
 
+Step 1:
 ```Shell
 git clone https://github.com/VladYankovenko/Xcode-snippets
+```
+
+Step 2:
+```Shell
 cp Xcode-snippets/MARKS/*.* Library/Developer/Xcode/UserData/CodeSnippets
+```
+
+Step 3:
+```Shell
 rm Xcode-snippets
 ```
+
+## ..or manually move snippets to
+
+`Library/Developer/Xcode/UserData/CodeSnippets`
 
 # Available Snippets
 
